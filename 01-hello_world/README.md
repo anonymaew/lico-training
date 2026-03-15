@@ -16,7 +16,7 @@
 
 ```bash
 echo "hello world"
-python -V
+python3 -V
 ```
 
 ## Resource Options

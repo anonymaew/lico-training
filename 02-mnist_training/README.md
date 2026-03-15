@@ -2,6 +2,18 @@
 
 ใช้เทมเพลต `Singularity`
 
+## Prerequisite
+
+สร้าง directory และวางไฟล์ตามแผนผัง
+
+```
+mnist_trainnig
+├── main.py
+└── requirements.txt
+```
+
+โค้ดมีให้ตามข้างบน
+
 ## Template Information
 
 | | |
