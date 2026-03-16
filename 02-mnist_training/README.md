@@ -28,7 +28,7 @@ mnist_trainnig
 | Container Image | `pytorch` |
 
 ```bash
-cd ~/mnist-training
+cd ~/mnist_training
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

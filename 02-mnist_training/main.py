@@ -99,6 +99,6 @@ for epoch in range(num_epochs):
 
 elapsed = time() - start_timestamp
 print(f"""############
-      Elapsed time: {elapsed:d} seconds for {num_epochs} epochs, {
+      Elapsed time: {elapsed} seconds for {num_epochs} epochs, {
     (elapsed / num_epochs):.2f} sec/epoch on {device}
 ############""")

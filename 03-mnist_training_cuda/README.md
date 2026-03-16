@@ -13,7 +13,7 @@ Copy job มาจาก [job ที่แล้ว](../02-mnist_training)
 ## Template Parameters
 
 ```bash
-cd ~/mnist-training
+cd ~/mnist_training
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
